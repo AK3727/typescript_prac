@@ -1,0 +1,15 @@
+{
+  "name": "typescript_step_by_step",
+  "version": "1.0.0",
+  "description": "This is Typescript step by step",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Anil Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
